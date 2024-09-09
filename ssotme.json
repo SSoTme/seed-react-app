@@ -1,0 +1,13 @@
+{
+  "ShowHidden": false,
+  "ShowAllFiles": false,
+  "Name": "seed-react-app",
+  "ProjectSettings": [
+    {
+      "ProjectSettingId": "969a3492-212c-4f98-9a82-cc80f8bec970",
+      "Name": "project-name",
+      "Value": "seed-react-app"
+    }
+  ],
+  "ProjectTranspilers": []
+}
